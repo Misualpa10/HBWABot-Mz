@@ -16,7 +16,7 @@ global.bot_language = 'lus' // I language code dah tur code hman i hriat loh chu
 
 //info
 global.owner = ['918730089467'] // I phone number in thlak rawh
-global.ownernumber = '8730089467' // I phone number in thlak rawh
+global.ownernumber = '918730089467' // I phone number in thlak rawh
 global.ownername = "prime lk✅" // I hming dah tel bawk la
 global.location = "India, Mizoram, siaha" // I awmna hmun daha
 global.botname = "Prime LK" // I bot hming tur dah la
